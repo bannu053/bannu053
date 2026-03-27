@@ -7,7 +7,8 @@
 🧭 Aspiring Data Scientist  <br>
 🏡 Based in India 🇮🇳  
 🎓 B.Tech in Information Technology   
-🏫 Kakatiya University (UCETW)  
+🏫 Kakatiya University (UCETW) <br>
+📧 bunnybannu768@gmail.com<br>
  
 
 ---
@@ -24,6 +25,7 @@
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23000000.svg?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/seaborn-%23000000.svg?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Cufflinks](https://img.shields.io/badge/Cufflinks-DataViz-blueviolet?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
